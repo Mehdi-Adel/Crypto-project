@@ -24,4 +24,4 @@ L'application sera pensée mobile-first mais sera responsive.
 
 ### Décrire le public visé
 
-Par
+SAlut
